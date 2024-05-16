@@ -3,15 +3,15 @@
 <br>
 
 
-- 🔭 I’m currently working on **Projects page**
+- 🔭 I’m currently working on **Mobile applications**
 
-- 🌱 I’m currently learning **Three.js**
+- 🌱 I’m currently learning **React Natvie**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Patrykmclaren14](https://github.com/Patrykmclaren14)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/patryk-wierzbowski-646791278/](https://www.linkedin.com/in/patryk-wierzbowski-646791278/)
 
-- 💬 Ask me about **React, Js, Ts, Node**
+- 💬 Ask me about **HTML, CSS, React, Js, Ts, Node, Next**
 
 - 📫 How to reach me **wierzbowski.work@gmail.com**
 
